@@ -1,9 +1,7 @@
 <h1 align="center">Hi👋 I am Muralidharan K</h1>
 <h3 align="center">Flutter Enthusiast and Developer</h3>
 
-- 🔭 I’m currently working on TurfBooking application [TurfMaster](https://github.com/MuralidharanKrishnamoorthy/TurfMaster)
-
-- 🌱 I’m currently learning **Data science**
+- 🔭 I’m currently working on TurfBooking application [Decentralized Carbon Credit Marketplace](https://github.com/MuralidharanKrishnamoorthy/TurfMaster)
 
 - 💬 Ask me about **Flutter Node.js MongoDB Java**
 
